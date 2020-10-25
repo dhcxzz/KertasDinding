@@ -58,7 +58,7 @@ function login({navigation}) {
           <TouchableOpacity
             onPress={() => navigation.navigate('Home')}
             style={styles.button}>
-            <Text style={styles.buttonFont}>refresh</Text>
+            <Text style={styles.buttonFont}>submit</Text>
           </TouchableOpacity>
         </View>
       </View>

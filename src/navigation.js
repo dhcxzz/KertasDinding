@@ -4,7 +4,7 @@ import {
   NavigationContainer,
   getFocusedRouteNameFromRoute,
 } from '@react-navigation/native';
-import {Button} from 'react-native';
+
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 
 import Ion from 'react-native-vector-icons/Ionicons';
